@@ -11,12 +11,19 @@ export class CriarPensamentoComponent implements OnInit {
     id: '1',
     conteudo: 'Aprendendo Angular',
     autoria: 'Dev',
-    modelo: ''
+    modelo: '2'
   }
-  
+
   constructor() { }
 
   ngOnInit(): void {
   }
 
+  cancelarCriacaoDePensamento() {
+    alert("Cancelou")
+  }
+
+  salvarPensamento() {
+    alert("Chamou validações e POST")
+  }
 }
