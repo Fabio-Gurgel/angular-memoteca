@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "SABOR energético",
+      "autoria": "Toguro",
+      "modelo": 2
+    },
+    {
+      "id": 2,
+      "conteudo": "Tá com medo do Myers?",
+      "autoria": "Samuel do Pé de Feijão",
+      "modelo": 3
+    },
+    {
+      "id": 3,
+      "conteudo": "Brócolis é o segredo",
+      "autoria": "Mulher bombada",
+      "modelo": 1
+    }
+  ]
+}
