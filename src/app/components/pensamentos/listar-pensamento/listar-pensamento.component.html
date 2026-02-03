@@ -9,6 +9,13 @@
         </div>
     </header>
 </section>
+<app-botao-carregar-mais
+    *ngIf="listaPensamentos.length === 10"
+    (click)="carregarMaisPensamentos()"
+    [haMaisPensamentos]="haMaisPensamentos"
+>
+</app-botao-carregar-mais>
+
 <ng-template #semPensamentos>
     <div class="ff-inter sem-pensamentos">
         <p>Ainda não há pensamentos cadastrado.</p>

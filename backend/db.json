@@ -1,12 +1,6 @@
 {
   "pensamentos": [
     {
-      "id": 2,
-      "conteudo": "Tá com medo do Myers?",
-      "autoria": "Samuel do Pé de Feijão",
-      "modelo": 3
-    },
-    {
       "id": 3,
       "conteudo": "Brócolis é o segredo",
       "autoria": "Mulher bombada",
@@ -29,6 +23,42 @@
       "autoria": "teste",
       "modelo": 1,
       "id": 6
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "teste212",
+      "modelo": 2,
+      "id": 7
+    },
+    {
+      "conteudo": "Teste",
+      "autoria": "teste",
+      "modelo": 1,
+      "id": 8
+    },
+    {
+      "conteudo": "teste teste",
+      "autoria": "teste ",
+      "modelo": 1,
+      "id": 9
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "awdawdadwa",
+      "modelo": 2,
+      "id": 10
+    },
+    {
+      "conteudo": "awdadada",
+      "autoria": "awdadadwadw",
+      "modelo": 3,
+      "id": 12
+    },
+    {
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Dev",
+      "modelo": 2,
+      "id": 13
     }
   ]
 }
